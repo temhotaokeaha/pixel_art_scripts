@@ -23,9 +23,9 @@ I couldn't find the right tool for the job. There were at least 20 one-way conve
 
 ## To-Do
 The scripts are sub-optimal and any improvements are welcomed.
-- At least more comments because Shell scripts get very difficult to read after a month.
+- ~~More comments because Shell scripts get very difficult to read after a month.~~ -- Done.
 - Basic refactoring.
-- Throw exceptions on file or folder names with spaces.
+- ~~Throw exceptions on file or folder names with spaces.~~ -- Done (?).
 - Integration of `ext.sh` in `stitch.sh` (line 24 in latter). It should be extremely simple but I can't do it.
 
 Final goal would be complete freedom in texture proportions and sizes, but that's way out of my expertise at the moment.
